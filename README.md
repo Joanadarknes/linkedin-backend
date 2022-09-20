@@ -134,7 +134,7 @@ O projeto vai estar rodando em:
   
 ---
 
-## 🐳 Como instalar o PostgreSQL no Windows: https://blog.cod3r.com.br/como-instalar-o-postgresql-no-windows/
+## 🐳 Como instalar o PostgreSQL no Windows
 
 1.Para começar a instalação do PostgreSQL faremos o download diretamente do site oficial, a partir desse link.
 
